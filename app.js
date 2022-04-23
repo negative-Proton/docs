@@ -1,0 +1,1 @@
+alert('RB-1.0.0.1: clash commit 1 in app.js')
