@@ -2,8 +2,8 @@ p {
     height: auto;
 }
 h1{
-    height: max-content;
+    color: blueviolet;
 }
 h2{
-    color: gold;
+    hyphens: manual;
 }
