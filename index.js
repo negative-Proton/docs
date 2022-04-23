@@ -10,5 +10,9 @@ console.log('2nd commit from RB-1.0.0.1');
 
 console.log('3rd Commit from RB-1.0.0.1');
 console.log('4th commit from RB-1.0.0.1');
+<<<<<<< HEAD
 console.log('5th commit from bpai2');
 console.log('6th commit from bpai2 after a non clashing file');
+=======
+console.log('hello');
+>>>>>>> a3c38a4 (hello commit from RB-1.0.0.1)
